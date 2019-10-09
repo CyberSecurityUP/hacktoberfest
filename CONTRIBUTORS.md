@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joas Antonio](https://github.com/CyberSecurityUP)
+- Place: São Paulo, Brazil
+- Bio: Information Security, Python Programming and PenTester
+- Github: [Joas Antonio](https://github.com/CyberSecurityUP)
